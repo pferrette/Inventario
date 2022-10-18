@@ -1,0 +1,26 @@
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\bin\Debug\net6.0\Inventario Steris.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\bin\Debug\net6.0\Inventario Steris.exe
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\bin\Debug\net6.0\Inventario Steris.deps.json
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\bin\Debug\net6.0\Inventario Steris.runtimeconfig.json
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\bin\Debug\net6.0\Inventario Steris.dll
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\bin\Debug\net6.0\Inventario Steris.pdb
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\scopedcss\bundle\Inventario Steris.styles.css
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\scopedcss\projectbundle\Inventario Steris.bundle.scp.css
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.dll
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\refint\Inventario Steris.dll
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.pdb
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\Inventario Steris.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Inventário Steris\Inventario Steris\Inventario Steris\obj\Debug\net6.0\ref\Inventario Steris.dll
